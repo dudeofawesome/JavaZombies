@@ -1,0 +1,14 @@
+ - 0.44 -
+	Made it so you have to start the game one it has been opened, and added retry option to game over screen.
+
+ - 0.43 -
+	Made it so that enemies don't pile up on top of each other.
+
+ - 0.42 -
+	Added audio for you exploding and enemies exploding.
+
+ - 0.41 -
+	Made particles semi-transparent.
+
+ - 0.35 and earlier -
+	Unknown changes.

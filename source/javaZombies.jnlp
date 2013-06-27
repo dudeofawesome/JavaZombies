@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp
+  spec="1.5+"
+  codebase="http://orleans.pl"
+  href="javaZombies.jnlp">
+  <information>
+    <title>Java Zombies</title>
+    <vendor>Louis Orleans</vendor>
+    <homepage href="http://orleans.pl"/>
+    <description>Java Zombies</description>
+    <description kind="short">A game using java.</description>
+    <icon href="images/screeny.png"/>
+    <icon kind="splash" href="images/screeny.png"/>
+    <offline-allowed/> 
+    <association mime-type="application-x/swingset2-file" extensions="swingset2">
+    <shortcut online="true">
+      <desktop/>
+      <menu submenu="DudeOfAwesome"/>
+    </shortcut>
+  </information>
+  <information os="linux">   
+    <title>Java Zombies</title>
+    <homepage href="http://orleans.pl">
+  </information>
+  <security>
+      <all-permissions/>
+  </security>
+  <resources>
+    <j2se version="1.4.2+" java-vm-args="-esa -Xnoclassgc"/>
+    <jar href="spaceZombies.jar"/>
+  </resources>
+  <application-desc main-class="frame"/>
+</jnlp> 
