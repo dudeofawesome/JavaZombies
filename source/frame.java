@@ -1,7 +1,7 @@
 /**
  * @author Louis Orleans
  * @date 10 September 2012
- * @homepage http://orleans.pl/spaceZombies
+ * @homepage https://orleans.io/projectDownloads/spaceZombies
 */
 
 import javax.swing.*;
